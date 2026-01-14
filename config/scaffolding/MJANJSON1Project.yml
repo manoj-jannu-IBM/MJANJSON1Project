@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/manoj-jannu-IBM
   gitUsername: manoj-jannu-IBM
   gitBranch: main
+services:
+- serviceName: project.mjanjson1.integrations:doct
+  packages:
+  - name: MJANJSON1Project
+    version: "1.0"

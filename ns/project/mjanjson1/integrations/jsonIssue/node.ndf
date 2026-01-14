@@ -97,7 +97,7 @@
   <value name="retry_interval">0</value>
   <record name="node_hints" javaclass="com.wm.util.Values">
     <value name="lastModifiedBy">manoj.jannu@ibm.com</value>
-    <value name="lastModifiedDate">1768380619176</value>
+    <value name="lastModifiedDate">1768381011358</value>
     <value name="displayName">jsonIssue</value>
     <value name="description"></value>
     <record name="stepNodeHints" javaclass="com.wm.util.Values">
@@ -160,15 +160,15 @@
           <value name="serviceName">pub.json:documentToJSONString</value>
           <value name="transformerSupport">true</value>
         </record>
-        <number name="ui_step_index" type="Long">2</number>
-        <value name="nodePathNew">1</value>
-        <number name="nodeIndex" type="Long">1</number>
-        <number name="lineNumberForDebug" type="Long">2</number>
+        <number name="ui_step_index" type="Long">3</number>
+        <value name="nodePathNew">2</value>
+        <number name="nodeIndex" type="Long">2</number>
+        <number name="lineNumberForDebug" type="Long">3</number>
         <null name="mapSet"/>
         <null name="outputMapSet"/>
         <Boolean name="serviceReferenceResolved">true</Boolean>
         <Boolean name="xmlMapsetSupported">true</Boolean>
-        <value name="nodePathForDebug">1</value>
+        <value name="nodePathForDebug">2</value>
       </record>
     </record>
   </record>
